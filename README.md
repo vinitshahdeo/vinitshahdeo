@@ -27,7 +27,7 @@ _.assign(new Developer(), user);
 | [@vinitshahdeo/PortScanner](https://github.com/vinitshahdeo/PortScanner) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/PortScanner?color=green&logo=github&style=flat)](https://github.com/vinitshahdeo/PortScanner/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/PortScanner?style=flat&logo=github)](https://github.com/vinitshahdeo/PortScanner/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/vinitshahdeo/PortScanner?style=flat&color=critical&logo=github)](https://github.com/vinitshahdeo/PortScanner/pulls?q=is%3Apr+is%3Aclosed)  |
 | [@vinitshahdeo/Water-Monitoring-System](https://github.com/vinitshahdeo/Water-Monitoring-System/) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/Water-Monitoring-System?color=green&logo=github&style=flat)](https://github.com/vinitshahdeo/Water-Monitoring-System/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/Water-Monitoring-System?style=flat&logo=github)](https://github.com/vinitshahdeo/Water-Monitoring-System/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/vinitshahdeo/Water-Monitoring-System?style=flat&color=critical&logo=github)](https://github.com/vinitshahdeo/Water-Monitoring-System/pulls?q=is%3Apr+is%3Aclosed)   |
 
-[![@vinitshahdeo](./vinitshahdeo.png)](https://github.com/vinitshahdeo/vinitshahdeo/)
+[![@vinitshahdeo](./vinitshahdeo-graph.png)](https://github.com/vinitshahdeo/vinitshahdeo/)
 
 > [Click here](https://github.com/vinitshahdeo/jobtweets/blob/master/PROJECTS.md) to view my other projects.
 
