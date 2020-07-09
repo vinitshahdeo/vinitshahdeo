@@ -4,7 +4,7 @@
 
 ```javascript
 
-import { Developer } from‘ GitHub’;
+import { Developer } from 'GitHub';
 
 let user = {
     Name: 'Vinit Shahdeo',
@@ -17,7 +17,10 @@ _.assign(new Developer(), user);
 
 ```
 
-Currently I'm looking for contributions for following projects:
+**Currently I'm looking for contributions for following projects**:
+
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/vinitshahdeo)  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vinitshahdeo)
+
 
 |      Project     |     Issues   | Open PRs  | Closed PRs  |
 |-------------|-------------------|---|---|
@@ -37,8 +40,7 @@ Check out links below to know more about me:
 
 **Say Hi on Twitter([@Vinit_Shahdeo](https://twitter.com/Vinit_Shahdeo))!**
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Vinit_Shahdeo?style=social)](https://twitter.com/Vinit_Shahdeo) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vinitshahdeo)
-
+[![Twitter Follow](https://img.shields.io/twitter/follow/Vinit_Shahdeo?style=social)](https://twitter.com/Vinit_Shahdeo)
 
 <!--
 **vinitshahdeo/vinitshahdeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
