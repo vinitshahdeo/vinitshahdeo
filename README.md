@@ -2,10 +2,27 @@
 
 #### Glad to see you here!
 
+```javascript
+
+import { Developer } from‘ GitHub’;
+
+let user = {
+    Name: 'Vinit Shahdeo',
+    Company: 'Postman',
+    Profile: 'Software Engineer', // Ex VP(Tech) CodeChef VIT
+    Skills: 'JavaScript', 'NodeJS', 'React'
+};
+
+_.assign(new Developer(), user);
+
+```
+
 Currently I'm looking for contributions for following projects:
 
 - [@vinitshahdeo/PortScanner](https://github.com/vinitshahdeo/PortScanner)
 - [@vinitshahdeo/Water-Monitoring-System](https://github.com/vinitshahdeo/Water-Monitoring-System/)
+
+> [Click here](https://github.com/vinitshahdeo/jobtweets/blob/master/PROJECTS.md) to view my other projects.
 
 Check out links below to know more about me:
 
@@ -17,7 +34,7 @@ Check out links below to know more about me:
 
 **Say Hi on Twitter([@Vinit_Shahdeo](https://twitter.com/Vinit_Shahdeo))!**
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Vinit_Shahdeo?style=social)](https://twitter.com/Vinit_Shahdeo)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Vinit_Shahdeo?style=social)](https://twitter.com/Vinit_Shahdeo) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vinitshahdeo)
 
 
 <!--
