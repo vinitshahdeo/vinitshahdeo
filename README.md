@@ -37,6 +37,16 @@ Check out links below to know more about me:
 - [My Interview with Eat My News](https://www.eatmy.news/2020/06/code-like-you-eat-i-mean-code-daily-as.html)
 - [My FAyz Story](https://fayz.in/stories/s/1522/0/?ckt_id=ZGL1ZGVk&title=story_of_vinit_shahdeo)
 
+Consider leaving a :star: for **[COVID-19 :mask: Tracker :india:](https://github.com/vinitshahdeo/COVID19/)** built by me! :hugs:
+
+```bash
+╔═╗╔╦╗╔═╗╦ ╦  ╦ ╦╔═╗╔╦╗╔═╗
+╚═╗ ║ ╠═╣╚╦╝  ╠═╣║ ║║║║║╣ 
+╚═╝ ╩ ╩ ╩ ╩   ╩ ╩╚═╝╩ ╩╚═╝
+╔═╗╔╦╗╔═╗╦ ╦  ╔═╗╔═╗╔═╗╔═╗
+╚═╗ ║ ╠═╣╚╦╝  ╚═╗╠═╣╠╣ ║╣ 
+╚═╝ ╩ ╩ ╩ ╩   ╚═╝╩ ╩╚  ╚═╝
+```
 
 **Say Hi on Twitter([@Vinit_Shahdeo](https://twitter.com/Vinit_Shahdeo))!**
 
