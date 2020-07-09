@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-#### Glad to see you here! :star_struck:
-**🔭 Currently I'm looking for contributions for following projects**:
+**Glad to see you here!** :star_struck:
+
+Currently I'm **looking for contributions** for following projects:
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/vinitshahdeo)  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vinitshahdeo)
 
@@ -13,7 +14,7 @@
 
 > [Click here](https://github.com/vinitshahdeo/jobtweets/blob/master/PROJECTS.md) to view my other projects.
 
-Check out links below to know more about me:
+**Check out links below** to know more about me:
 
 - :electron: [Dev Story by Geektrust](https://www.geektrust.in/blog/2019/07/31/developers-story-vinit-shahdeo/)
 - :dart: [My Passion Story by PassionConnect](https://passionconnect.in/passionstory/vinit-shahdeo)
