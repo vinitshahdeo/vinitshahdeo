@@ -1,7 +1,5 @@
 ### Hi there 👋
-
-**Glad to see you here!** :star_struck:
-
+Glad to see you here! :star_struck:
 Currently I'm **looking for contributions** for following projects:
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/vinitshahdeo)  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vinitshahdeo)
@@ -12,7 +10,7 @@ Currently I'm **looking for contributions** for following projects:
 | [@vinitshahdeo/**PortScanner**](https://github.com/vinitshahdeo/PortScanner) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/PortScanner?color=green&logo=github&style=flat)](https://github.com/vinitshahdeo/PortScanner/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/PortScanner?style=flat&logo=github)](https://github.com/vinitshahdeo/PortScanner/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/vinitshahdeo/PortScanner?style=flat&color=critical&logo=github)](https://github.com/vinitshahdeo/PortScanner/pulls?q=is%3Apr+is%3Aclosed)  |
 | [@vinitshahdeo/**Water-Monitoring-System**](https://github.com/vinitshahdeo/Water-Monitoring-System/) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/Water-Monitoring-System?color=green&logo=github&style=flat)](https://github.com/vinitshahdeo/Water-Monitoring-System/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/Water-Monitoring-System?style=flat&logo=github)](https://github.com/vinitshahdeo/Water-Monitoring-System/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/vinitshahdeo/Water-Monitoring-System?style=flat&color=critical&logo=github)](https://github.com/vinitshahdeo/Water-Monitoring-System/pulls?q=is%3Apr+is%3Aclosed)   |
 
-> [Click here](https://github.com/vinitshahdeo/jobtweets/blob/master/PROJECTS.md) to view my other projects.
+> *[Click here](https://github.com/vinitshahdeo/jobtweets/blob/master/PROJECTS.md) to view my other projects.*
 
 **Check out links below** to know more about me:
 
