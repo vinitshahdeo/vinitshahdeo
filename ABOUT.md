@@ -76,7 +76,9 @@ I love to interact with people and share whatever little I know about my technol
 - [Placement interview with Mr. Vinit Shahdeo - VinnovateIT](https://www.youtube.com/watch?v=0VDtIJCsdTE)
 							
 
-### Consider leaving a :star: for **[COVID-19](https://github.com/vinitshahdeo/COVID19/) :mask: [Tracker](https://github.com/vinitshahdeo/COVID19/) :india:** built by me! :hugs: <br><br>
+### Consider leaving a :star: for **[COVID-19](https://github.com/vinitshahdeo/COVID19/) :mask: [Tracker](https://github.com/vinitshahdeo/COVID19/) :india:** built by me! :hugs: 
+
+[![Mentioned in Awesome](https://awesome.re/mentioned-badge.svg)](https://github.com/vinitshahdeo/COVID19/)
 
 [![COVID-19 Tracker](https://github-readme-stats.vercel.app/api/pin/?username=vinitshahdeo&repo=COVID19)](https://github.com/vinitshahdeo/COVID19)
 
