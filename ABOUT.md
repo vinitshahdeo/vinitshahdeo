@@ -59,7 +59,7 @@ Currently, I'm maintaining two projects which is part of many open-source progra
 
 ### :handshake: Always happy to help!
 
-I love to interact with people and share whatever little I know about my technology. It's a great feeling for me to onboard someone to the Open Source. Check out open letter [here](https://github.com/vinitshahdeo/Water-Monitoring-System/issues/236). Read the following medium stories to learn more:
+I love to interact with people and share whatever little I know about my technology. It's a great feeling for me to onboard someone to the Open Source. Check out open letter [here](https://github.com/vinitshahdeo/Water-Monitoring-System/issues/236). Read the following **[Medium](https://medium.com/@vinitshahdeo/)** stories to learn more:
 
 - [GO-GREEN featuring GITHUB](https://medium.com/@kashish_121/go-green-featuring-github-f8750fbf0729)
 
@@ -68,6 +68,12 @@ I love to interact with people and share whatever little I know about my technol
 - [GirlScript Summer of Code 2020 Mentor Experience](https://medium.com/girlscript-summer-of-code/girlscript-summer-of-code-2020-mentor-experience-28daec399b1e)
 
 - [Look Mom! I'm on GitHub](https://medium.com/@ishikadubey2000/look-mom-im-on-github-521bb6c1f51d)
+
+### :tv: Webinars & Podcasts
+
+- [Event Loop in JavaScript by Vinit Shahdeo, Postman | HackOn Hackathon](https://www.youtube.com/watch?v=zsRv8g3C4rY)
+
+- [Placement interview with Mr. Vinit Shahdeo - VinnovateIT](https://www.youtube.com/watch?v=0VDtIJCsdTE)
 							
 
 ### Consider leaving a :star: for **[COVID-19](https://github.com/vinitshahdeo/COVID19/) :mask: [Tracker](https://github.com/vinitshahdeo/COVID19/) :india:** built by me! :hugs: <br><br>
