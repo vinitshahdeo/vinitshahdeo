@@ -8,7 +8,7 @@ I am addicted to green dots on GitHub.
 
 [![Vinit Shahdeo's github stats](https://github-readme-stats.vercel.app/api?username=vinitshahdeo&show_icons=true)](https://github.com/vinitshahdeo/)
 
-### My skills include:
+### :gear: My skills include:
 
 - **Languages**: `C`, `C++`, `JavaScript`
 
@@ -23,7 +23,7 @@ I am addicted to green dots on GitHub.
 - **Technical Practices**: *Agile*, *Test Driven Development*, *REST API Design*, *DevOps*, *PWA*
 
 
-### Check out links below to know more about me:
+### :arrow_down: Check out links below to know more about me:
 
 - :electron: **[A Developer’s Story – Vinit Shahdeo](https://www.geektrust.in/blog/2019/07/31/developers-story-vinit-shahdeo/)**
 
@@ -38,7 +38,9 @@ I am addicted to green dots on GitHub.
 - :briefcase: **[Software Engineering Internship Experience at Postman](https://medium.com/@vinitshahdeo/software-engineering-internship-experience-at-postman-182df16ef33f)**
 
 
-### Open Source
+### :octocat: Open Source
+
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vinitshahdeo) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/vinitshahdeo/Water-Monitoring-System)
 
 Currently, I'm maintaining two projects which is part of many open-source programs such as GirlScript Summer Of Code, Rails Girls Summer of Code, Leapcode, etc. 
 
@@ -53,9 +55,9 @@ Currently, I'm maintaining two projects which is part of many open-source progra
 
 <br><br>
 
-### Always happy to help!
+### :handshake: Always happy to help!
 
-I love to interact with people and share whatever little I know about my technology. It's a great feeling for me to onboard someone to the Open Source. Read the following medium stories to learn more:
+I love to interact with people and share whatever little I know about my technology. It's a great feeling for me to onboard someone to the Open Source. Check out open letter [here](https://github.com/vinitshahdeo/Water-Monitoring-System/issues/236). Read the following medium stories to learn more:
 
 - [GO-GREEN featuring GITHUB](https://medium.com/@kashish_121/go-green-featuring-github-f8750fbf0729)
 
@@ -66,7 +68,8 @@ I love to interact with people and share whatever little I know about my technol
 - [Look Mom! I'm on GitHub](https://medium.com/@ishikadubey2000/look-mom-im-on-github-521bb6c1f51d)
 							
 
-Consider leaving a :star: for **[COVID-19](https://github.com/vinitshahdeo/COVID19/) :mask: [Tracker](https://github.com/vinitshahdeo/COVID19/) :india:** built by me! :hugs: <br><br>
-**Say Hi on Twitter([@Vinit_Shahdeo](https://twitter.com/Vinit_Shahdeo))!** :heart: 💬 Ask me anything on Quora!
+### Consider leaving a :star: for **[COVID-19](https://github.com/vinitshahdeo/COVID19/) :mask: [Tracker](https://github.com/vinitshahdeo/COVID19/) :india:** built by me! :hugs: <br><br>
+
+**Say Hi on Twitter([@Vinit_Shahdeo](https://twitter.com/Vinit_Shahdeo))!** :heart: 💬
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Vinit_Shahdeo?style=social)](https://twitter.com/Vinit_Shahdeo)
