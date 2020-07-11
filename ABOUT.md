@@ -1,7 +1,9 @@
 ### Hello :wave:
 
 I'm **[Vinit Shahdeo](https://www.linkedin.com/in/vinitshahdeo/)**, a human being who is passionate about simplifying things through technology.
-Currently I am working as a **[Software Engineer at Postman](https://medium.com/@vinitshahdeo/software-engineering-internship-experience-at-postman-182df16ef33f)**. I work with all kinds of modern JavaScript. You can find me on [LinkedIn](https://www.linkedin.com/in/vinitshahdeo/).
+Currently I am working as a **[Software Engineer at Postman](https://medium.com/@vinitshahdeo/software-engineering-internship-experience-at-postman-182df16ef33f)**. I work with all kinds of modern JavaScript. **You can find me on [LinkedIn](https://www.linkedin.com/in/vinitshahdeo/)**.
+
+ [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@vinitshahdeo&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/vinitshahdeo/)
 
 My charitable motivation, coupled with a passion for what I am doing, inspires me for Open Source. 
 I am addicted to green dots on GitHub.
@@ -42,7 +44,7 @@ I am addicted to green dots on GitHub.
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vinitshahdeo) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/vinitshahdeo/Water-Monitoring-System)
 
-Currently, I'm maintaining two projects which is part of many open-source programs such as GirlScript Summer Of Code, Rails Girls Summer of Code, Leapcode, etc. 
+Currently, I'm maintaining two projects which is part of many open-source programs such as [GirlScript Summer Of Code](https://www.gssoc.tech/), [Rails Girls Summer of Code](http://railsgirlssummerofcode.org/), [Leapcode](http://leapcode.io/), etc. Check out my other projects [here](./PROJECTS.md).
 
 <a href="https://github.com/vinitshahdeo/PortScanner">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vinitshahdeo&repo=PortScanner" />
@@ -70,6 +72,18 @@ I love to interact with people and share whatever little I know about my technol
 
 ### Consider leaving a :star: for **[COVID-19](https://github.com/vinitshahdeo/COVID19/) :mask: [Tracker](https://github.com/vinitshahdeo/COVID19/) :india:** built by me! :hugs: <br><br>
 
+[![COVID-19 Tracker](https://github-readme-stats.vercel.app/api/pin/?username=vinitshahdeo&repo=COVID19)](https://github.com/vinitshahdeo/COVID19)
+
 **Say Hi on Twitter([@Vinit_Shahdeo](https://twitter.com/Vinit_Shahdeo))!** :heart: 💬
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Vinit_Shahdeo?style=social)](https://twitter.com/Vinit_Shahdeo)
+----
+```javascript
+
+if (_.isAwesome(thisRepo)) {
+  thisRepo.star(); // thanks in advance :p
+}
+
+```
+----
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/Vinit_Shahdeo?style=social)](https://twitter.com/Vinit_Shahdeo) [![GitHub followers](https://img.shields.io/github/followers/vinitshahdeo.svg?label=Follow%20@vinitshahdeo&style=social)](https://github.com/vinitshahdeo/)
