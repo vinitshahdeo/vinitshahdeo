@@ -1,7 +1,7 @@
 ### Hello :wave:
 
-I'm **[Vinit Shahdeo]()**, a human being who is passionate about simplifying things through technology.
-Currently I am working as a **[Software Engineer at Postman]()**. I work with all kinds of modern JavaScript.
+I'm **[Vinit Shahdeo](https://www.linkedin.com/in/vinitshahdeo/)**, a human being who is passionate about simplifying things through technology.
+Currently I am working as a **[Software Engineer at Postman](https://medium.com/@vinitshahdeo/software-engineering-internship-experience-at-postman-182df16ef33f)**. I work with all kinds of modern JavaScript. You can find me on [LinkedIn](https://www.linkedin.com/in/vinitshahdeo/).
 
 My charitable motivation, coupled with a passion for what I am doing, inspires me for Open Source. 
 I am addicted to green dots on GitHub.
@@ -35,7 +35,11 @@ I am addicted to green dots on GitHub.
 
 - :dart: **[Motivational Story : He got his first placement success after being rejected by 22 companies](https://www.prepbytes.com/preparation-bytes/motivational-stories-placement-success-after-rejections)**
 
- 
+- :briefcase: **[Software Engineering Internship Experience at Postman](https://medium.com/@vinitshahdeo/software-engineering-internship-experience-at-postman-182df16ef33f)**
+
+
+### Open Source
+
 Currently, I'm maintaining two projects which is part of many open-source programs such as GirlScript Summer Of Code, Rails Girls Summer of Code, Leapcode, etc. 
 
 <a href="https://github.com/vinitshahdeo/PortScanner">
@@ -49,7 +53,18 @@ Currently, I'm maintaining two projects which is part of many open-source progra
 
 <br><br>
 
+### Always happy to help!
 
+I love to interact with people and share whatever little I know about my technology. It's a great feeling for me to onboard someone to the Open Source. Read the following medium stories to learn more:
+
+- [GO-GREEN featuring GITHUB](https://medium.com/@kashish_121/go-green-featuring-github-f8750fbf0729)
+
+- [GSSOC 2020-A journey to explore the “UNEXPLORED”](https://medium.com/girlscript-summer-of-code/gssoc-2020-a-journey-to-explore-the-unexplored-f25a6ade8288)
+
+- [GirlScript Summer of Code 2020 Mentor Experience](https://medium.com/girlscript-summer-of-code/girlscript-summer-of-code-2020-mentor-experience-28daec399b1e)
+
+- [Look Mom! I'm on GitHub](https://medium.com/@ishikadubey2000/look-mom-im-on-github-521bb6c1f51d)
+							
 
 Consider leaving a :star: for **[COVID-19](https://github.com/vinitshahdeo/COVID19/) :mask: [Tracker](https://github.com/vinitshahdeo/COVID19/) :india:** built by me! :hugs: <br><br>
 **Say Hi on Twitter([@Vinit_Shahdeo](https://twitter.com/Vinit_Shahdeo))!** :heart: 💬 Ask me anything on Quora!
