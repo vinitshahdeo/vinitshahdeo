@@ -6,7 +6,7 @@ Currently I am working as a **[Software Engineer at Postman](https://medium.com/
  [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@vinitshahdeo&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/vinitshahdeo/)
 
 My charitable motivation, coupled with a passion for what I am doing, inspires me for Open Source. 
-I am addicted to green dots on GitHub.
+I am **addicted to green dots** on [GitHub](https://github.com/vinitshahdeo?tab=repositories).
 
 [![Vinit Shahdeo's github stats](https://github-readme-stats.vercel.app/api?username=vinitshahdeo&show_icons=true)](https://github.com/vinitshahdeo/)
 
