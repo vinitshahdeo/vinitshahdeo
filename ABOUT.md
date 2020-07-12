@@ -59,7 +59,7 @@ Currently, I'm maintaining two projects which is part of many open-source progra
 
 ### :handshake: Always happy to help!
 
-I love to interact with people and share whatever little I know about my technology. It's a great feeling for me to onboard someone to the Open Source. Check out open letter [here](https://github.com/vinitshahdeo/Water-Monitoring-System/issues/236). Read the following **[Medium](https://medium.com/@vinitshahdeo/)** stories to learn more:
+I love to interact with people and share whatever little I know about my technology. It's a great feeling for me to onboard someone to the Open Source. Check out my open letter [here](https://github.com/vinitshahdeo/Water-Monitoring-System/issues/236). Read the following **[Medium](https://medium.com/@vinitshahdeo/)** stories to learn more:
 
 - [GO-GREEN featuring GITHUB](https://medium.com/@kashish_121/go-green-featuring-github-f8750fbf0729)
 
