@@ -44,7 +44,7 @@ I am **addicted to green dots** on [GitHub](https://github.com/vinitshahdeo?tab=
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vinitshahdeo) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/vinitshahdeo/Water-Monitoring-System)
 
-Currently, I'm maintaining two projects which is part of many open-source programs such as [GirlScript Summer Of Code](https://www.gssoc.tech/), [Rails Girls Summer of Code](http://railsgirlssummerofcode.org/), [Leapcode](http://leapcode.io/), etc. Check out my other projects [here](./PROJECTS.md).
+Currently, I'm maintaining two projects which is part of many open-source programs such as [GirlScript Summer Of Code](https://www.gssoc.tech/), [Rails Girls Summer of Code](http://railsgirlssummerofcode.org/), [Leapcode](http://leapcode.io/), etc. **Check out my other projects [here](./PROJECTS.md)**.
 
 <a href="https://github.com/vinitshahdeo/PortScanner">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vinitshahdeo&repo=PortScanner" />
