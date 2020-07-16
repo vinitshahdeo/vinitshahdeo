@@ -9,8 +9,7 @@
 | [**Port Scanner**](https://github.com/vinitshahdeo/PortScanner) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/PortScanner?color=green&logo=github&style=flat)](https://github.com/vinitshahdeo/PortScanner/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/PortScanner?style=flat&logo=github)](https://github.com/vinitshahdeo/PortScanner/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/vinitshahdeo/PortScanner?style=flat&color=critical&logo=github)](https://github.com/vinitshahdeo/PortScanner/pulls?q=is%3Apr+is%3Aclosed)  |
 | [**Water Monitoring System**](https://github.com/vinitshahdeo/Water-Monitoring-System/) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/Water-Monitoring-System?color=green&logo=github&style=flat)](https://github.com/vinitshahdeo/Water-Monitoring-System/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/Water-Monitoring-System?style=flat&logo=github)](https://github.com/vinitshahdeo/Water-Monitoring-System/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/vinitshahdeo/Water-Monitoring-System?style=flat&color=critical&logo=github)](https://github.com/vinitshahdeo/Water-Monitoring-System/pulls?q=is%3Apr+is%3Aclosed)   |
 
-<sup>***[Click here](https://github.com/vinitshahdeo/jobtweets/blob/master/PROJECTS.md)** to view my other projects.</sup>*
-
+<sup>***[Click here](https://github.com/vinitshahdeo/jobtweets/blob/master/PROJECTS.md)** to view my other projects.</sup>* <br>
 **Check out links below** to know **[more](https://github.com/vinitshahdeo/vinitshahdeo/blob/master/ABOUT.md)** about me:
 
 - :electron: **[Dev Story by Geektrust](https://www.geektrust.in/blog/2019/07/31/developers-story-vinit-shahdeo/)**
