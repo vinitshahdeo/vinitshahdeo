@@ -1,6 +1,6 @@
 ### Hello :wave:
 
-I'm **[Vinit Shahdeo](https://www.linkedin.com/in/vinitshahdeo/)**, a human being who is passionate about simplifying things through technology.
+I'm **[Vinit Shahdeo](https://www.linkedin.com/in/vinitshahdeo/)**, a human being who is passionate about simplifying things through technology. I [graduated](https://www.instagram.com/p/CCTVUAXnawr/?igshid=h116uze2ewaz) (**B.Tech in Information Technology**) from [VIT Vellore](https://vit.ac.in/) in 2019.
 Currently I am working as a **[Software Engineer at Postman](https://medium.com/@vinitshahdeo/software-engineering-internship-experience-at-postman-182df16ef33f)**. I work with all kinds of modern JavaScript. **You can find me on [LinkedIn](https://www.linkedin.com/in/vinitshahdeo/)**.
 
  [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@vinitshahdeo&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/vinitshahdeo/)
