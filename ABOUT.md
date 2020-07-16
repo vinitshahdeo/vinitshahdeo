@@ -39,6 +39,8 @@ I am **addicted to green dots** on [GitHub](https://github.com/vinitshahdeo?tab=
 
 - :briefcase: **[Software Engineering Internship Experience at Postman](https://medium.com/@vinitshahdeo/software-engineering-internship-experience-at-postman-182df16ef33f)**
 
+> Featured by [@ameerthehacker](https://github.com/ameerthehacker)'s in his [live session](https://youtu.be/oRwEWN6eXyw?t=5389) as **5 profiles** he looks up to! See the video [here](https://youtu.be/oRwEWN6eXyw?t=5389).
+
 
 ### :octocat: Open Source
 
