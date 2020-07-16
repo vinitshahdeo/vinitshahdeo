@@ -11,7 +11,7 @@
 
 <sup>***[Click here](https://github.com/vinitshahdeo/jobtweets/blob/master/PROJECTS.md)** to view my other projects.</sup>*
 
-<kbd>**Check out**</kbd> links below to know **[more](https://github.com/vinitshahdeo/vinitshahdeo/blob/master/ABOUT.md)** about me:
+**Check out links below** to know **[more](https://github.com/vinitshahdeo/vinitshahdeo/blob/master/ABOUT.md)** about me:
 
 - :electron: **[Dev Story by Geektrust](https://www.geektrust.in/blog/2019/07/31/developers-story-vinit-shahdeo/)**
 - :studio_microphone: **[My Passion Story by PassionConnect](https://passionconnect.in/passionstory/vinit-shahdeo)**
