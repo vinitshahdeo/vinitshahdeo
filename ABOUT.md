@@ -24,7 +24,7 @@ I am **addicted to green dots** on [GitHub](https://github.com/vinitshahdeo?tab=
 
 - **Technical Practices**: *Agile*, *Test Driven Development*, *REST API Design*, *DevOps*, *PWA*
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinitshahdeo)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinitshahdeo)](https://github.com/vinitshahdeo)
 
 
 ### :arrow_down: Check out links below to know more about me:
