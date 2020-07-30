@@ -43,6 +43,8 @@ I am **addicted to green dots** on [GitHub](https://github.com/vinitshahdeo?tab=
 
 - :running_man: **[Vinit Shahdeo sharing his IT career journey | TechnoVans](https://technovans.com/vinit-shahdeo-sharing-his-it-career-journey/)**
 
+- :star: **[All about Placements with Vinit Shahdeo — VIT, Vellore](https://medium.com/@vinnovateit/all-about-placements-with-vinit-shahdeo-vit-vellore-87d3815d2436)**
+
 > Featured by [@ameerthehacker](https://github.com/ameerthehacker)'s in his [live session](https://youtu.be/oRwEWN6eXyw?t=5389) as **5 GitHub profiles** he looks up to! See the video [here](https://youtu.be/oRwEWN6eXyw?t=5389).
 
 
