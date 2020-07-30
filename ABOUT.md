@@ -43,6 +43,8 @@ I am **addicted to green dots** on [GitHub](https://github.com/vinitshahdeo?tab=
 
 - :running_man: **[Vinit Shahdeo sharing his IT career journey | TechnoVans](https://technovans.com/vinit-shahdeo-sharing-his-it-career-journey/)**
 
+- :octocat: **[“If you are a techie, your home page should be GitHub, not Instagram” - Vinit Shahdeo](https://www.opensourceforu.com/2020/07/if-you-are-a-techie-your-home-page-should-be-github-not-instagram/)**
+
 - :star: **[All about Placements with Vinit Shahdeo — VIT, Vellore](https://medium.com/@vinnovateit/all-about-placements-with-vinit-shahdeo-vit-vellore-87d3815d2436)**
 
 > Featured by [@ameerthehacker](https://github.com/ameerthehacker)'s in his [live session](https://youtu.be/oRwEWN6eXyw?t=5389) as **5 GitHub profiles** he looks up to! See the video [here](https://youtu.be/oRwEWN6eXyw?t=5389).
