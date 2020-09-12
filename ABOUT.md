@@ -86,6 +86,8 @@ I love to interact with people and share whatever little I know about my technol
 - [Event Loop in JavaScript by Vinit Shahdeo, Postman | HackOn Hackathon](https://www.youtube.com/watch?v=zsRv8g3C4rY)
 
 - [Placement interview with Mr. Vinit Shahdeo - VinnovateIT](https://www.youtube.com/watch?v=0VDtIJCsdTE)
+
+- [My talk at FOSS Hack 2020](https://www.youtube.com/watch?v=wYEn2ASpSjM)
 							
 
 ### Consider leaving a :star: for **[COVID-19](https://github.com/vinitshahdeo/COVID19/) :mask: [Tracker](https://github.com/vinitshahdeo/COVID19/) :india:** built by me! :hugs: 
