@@ -47,6 +47,8 @@ I am **addicted to green dots** on [GitHub](https://github.com/vinitshahdeo?tab=
 
 - :star: **[All about Placements with Vinit Shahdeo — VIT, Vellore](https://medium.com/@vinnovateit/all-about-placements-with-vinit-shahdeo-vit-vellore-87d3815d2436)**
 
+- :rocket: **[Interview – Vinit Shahdeo, Software Engineer | Launch2rise](https://launch2rise.in/2020/12/08/interview-with-vinit-shahdeo/)**
+
 > Featured by [@ameerthehacker](https://github.com/ameerthehacker)'s in his [live session](https://youtu.be/oRwEWN6eXyw?t=5389) as **5 GitHub profiles** he looks up to! See the video [here](https://youtu.be/oRwEWN6eXyw?t=5389).
 
 
@@ -88,6 +90,8 @@ I love to interact with people and share whatever little I know about my technol
 - [Placement interview with Mr. Vinit Shahdeo - VinnovateIT](https://www.youtube.com/watch?v=0VDtIJCsdTE)
 
 - [My talk at FOSS Hack 2020](https://www.youtube.com/watch?v=wYEn2ASpSjM)
+
+- [Raw Talent - Episode 5 | Ft. Vinit Shahdeo](https://anchor.fm/dsctiet/episodes/Raw-Talent---Episode-5--Ft--Vinit-Shahdeo---Software-Engineering---Open-Source-and-Postman-Labs-elmsvt)
 							
 
 ### Consider leaving a :star: for **[COVID-19](https://github.com/vinitshahdeo/COVID19/) :mask: [Tracker](https://github.com/vinitshahdeo/COVID19/) :india:** built by me! :hugs: 
