@@ -49,6 +49,8 @@ I am **addicted to green dots** on [GitHub](https://github.com/vinitshahdeo?tab=
 
 - :rocket: **[Interview – Vinit Shahdeo, Software Engineer | Launch2rise](https://launch2rise.in/2020/12/08/interview-with-vinit-shahdeo/)**
 
+- :tada: **[My journey from 0 to 1K followers on GitHub](https://dev.to/vinitshahdeo/my-journey-from-0-to-1k-followers-on-github-1n6h)**
+
 > Featured by [@ameerthehacker](https://github.com/ameerthehacker)'s in his [live session](https://youtu.be/oRwEWN6eXyw?t=5389) as **5 GitHub profiles** he looks up to! See the video [here](https://youtu.be/oRwEWN6eXyw?t=5389).
 
 
