@@ -51,6 +51,8 @@ I am **addicted to green dots** on [GitHub](https://github.com/vinitshahdeo?tab=
 
 - :tada: **[My journey from 0 to 1K followers on GitHub](https://dev.to/vinitshahdeo/my-journey-from-0-to-1k-followers-on-github-1n6h)**
 
+- :star_struck: **[The open-source world is fascinating - Vinit Shahdeo | Young Influx](https://www.younginflux.com/the-open-source-world-is-fascinating-vinit-shahdeo/)**
+
 > Featured by [@ameerthehacker](https://github.com/ameerthehacker)'s in his [live session](https://youtu.be/oRwEWN6eXyw?t=5389) as **5 GitHub profiles** he looks up to! See the video [here](https://youtu.be/oRwEWN6eXyw?t=5389).
 
 
