@@ -53,6 +53,10 @@ I am **addicted to green dots** on [GitHub](https://github.com/vinitshahdeo?tab=
 
 - :star_struck: **[The open-source world is fascinating - Vinit Shahdeo | Young Influx](https://www.younginflux.com/the-open-source-world-is-fascinating-vinit-shahdeo/)**
 
+- 😊 **[Meet Vinit Shahdeo, a resident of Jharkhand, has been recognized as a GitHub Star](https://thenewskhazana.com/story/meet-vinit-shahdeo-a-resident-of-jharkhand-has-been-recognized-as-a-github-star-22451/)**
+
+- ⭐ **[Vinit Shahdeo – The GitHub Star from Jharkhand, India](https://www.ranchiblog.in/vinit-shahdeo-github-star-from-jharkhand-india/)**
+
 > Featured by [@ameerthehacker](https://github.com/ameerthehacker)'s in his [live session](https://youtu.be/oRwEWN6eXyw?t=5389) as **5 GitHub profiles** he looks up to! See the video [here](https://youtu.be/oRwEWN6eXyw?t=5389).
 
 
