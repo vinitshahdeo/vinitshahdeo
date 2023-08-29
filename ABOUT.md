@@ -1,3 +1,5 @@
+![](./images/vinitshahdeo-github-banner.png)
+
 ### Hello :wave:
 
 I'm **[Vinit Shahdeo](https://www.linkedin.com/in/vinitshahdeo/)**, a human being who is passionate about simplifying things through technology. I [graduated](https://www.instagram.com/p/CCTVUAXnawr/?igshid=h116uze2ewaz) (**B.Tech in Information Technology**) from [VIT Vellore](https://vit.ac.in/) in 2019.
