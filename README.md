@@ -14,19 +14,19 @@ Currently, I'm building seamless neobanking solutions at [Novo](https://www.novo
 
 ### Featured blogs/articles
 
-- [📖 A Developer’s Story – Vinit Shahdeo](https://www.geektrust.in/blog/2019/07/31/developers-story-vinit-shahdeo/)
-- [🚀 Join Postman at Google Summer of Code 2023](https://blog.postman.com/join-postman-at-google-summer-of-code-2023/)
-- [💻 If You Are A Techie, Your Home Page Should Be GitHub, Not Instagram](https://www.opensourceforu.com/2020/07/if-you-are-a-techie-your-home-page-should-be-github-not-instagram/)
-- [🌟 Milepost: From a GitHub User to a GitHub Star](https://vinitshahdeo.dev/milepost-from-a-github-user-to-a-github-star)
-- [🧠 10 lessons I've learned as a Software Engineer at Postman](https://vinitshahdeo.dev/10-lessons-learned-as-software-engineer-at-postman)
+- 📖 [A Developer’s Story – Vinit Shahdeo](https://www.geektrust.in/blog/2019/07/31/developers-story-vinit-shahdeo/)
+- 🚀 [Join Postman at Google Summer of Code 2023](https://blog.postman.com/join-postman-at-google-summer-of-code-2023/)
+- 💻 [If You Are A Techie, Your Home Page Should Be GitHub, Not Instagram](https://www.opensourceforu.com/2020/07/if-you-are-a-techie-your-home-page-should-be-github-not-instagram/)
+- 🌟 [Milepost: From a GitHub User to a GitHub Star](https://vinitshahdeo.dev/milepost-from-a-github-user-to-a-github-star)
+- 🧠 [10 lessons I've learned as a Software Engineer at Postman](https://vinitshahdeo.dev/10-lessons-learned-as-software-engineer-at-postman)
 
 ### Projects
 
 Apart from the pinned repositories, I have built:
-- [🛡️ Peerlist README Badges](https://github.com/vinitshahdeo/peerlist-readme-badge/) *(included in [Peerlist official tools](https://peerlist.io/tools/readme-badge))*
-- [🔍 OpenAPI Web Search](https://vinitshahdeo.dev/open-api-web-search) *(part of [GSoC at Postman](https://blog.postman.com/postmans-projects-and-contributors-google-summer-of-code-2023/))*
-- [💧 Water Monitoring System](https://github.com/vinitshahdeo/Water-Monitoring-System) *(part of [Rails Girls Summer Of Code](https://twitter.com/Vinit_Shahdeo/status/1234936360613695489))*
-- [🦠 COVID-19 Tracker](https://github.com/vinitshahdeo/COVID19) *(featured in [newspapers](https://thenewskhazana.com/story/meet-vinit-shahdeo-a-resident-of-jharkhand-has-been-recognized-as-a-github-star-22451/), [blogs](https://www.ranchiblog.in/vinit-shahdeo-github-star-from-jharkhand-india/vinit-shahdeo-github-star-from-india/))*
+- 🛡️ [Peerlist README Badges](https://github.com/vinitshahdeo/peerlist-readme-badge/) *(included in [Peerlist official tools](https://peerlist.io/tools/readme-badge))*
+- 🔍 [OpenAPI Web Search](https://vinitshahdeo.dev/open-api-web-search) *(part of [GSoC at Postman](https://blog.postman.com/postmans-projects-and-contributors-google-summer-of-code-2023/))*
+- 💧 [Water Monitoring System](https://github.com/vinitshahdeo/Water-Monitoring-System) *(part of [Rails Girls Summer Of Code](https://twitter.com/Vinit_Shahdeo/status/1234936360613695489))*
+- 🦠 [COVID-19 Tracker](https://github.com/vinitshahdeo/COVID19) *(featured in [newspapers](https://thenewskhazana.com/story/meet-vinit-shahdeo-a-resident-of-jharkhand-has-been-recognized-as-a-github-star-22451/), [blogs](https://www.ranchiblog.in/vinit-shahdeo-github-star-from-jharkhand-india/vinit-shahdeo-github-star-from-india/))*
 
 ### Tech Stack
 
