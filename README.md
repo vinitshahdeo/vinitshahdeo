@@ -55,7 +55,7 @@ During [Hacktoberfest](https://github.com/vinitshahdeo/Hacktoberfest2021), I ini
 
 Explore my thoughts at [vinitshahdeo.dev](https://vinitshahdeo.dev/), and let's connect on 𝕏 [(Twitter)](https://twitter.com/Vinit_Shahdeo) and [LinkedIn](https://www.linkedin.com/in/vinitshahdeo/).
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Vinit_Shahdeo?style=social)](https://twitter.com/Vinit_Shahdeo) [![Peerlist](https://github-readme-badge.peerlist.io/api/vinitshahdeo)](https://peerlist.io/vinitshahdeo)  [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@vinitshahdeo&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/vinitshahdeo/) [![GitHub followers](https://img.shields.io/github/followers/vinitshahdeo.svg?label=Follow%20@vinitshahdeo&style=social)](https://github.com/vinitshahdeo/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Vinit_Shahdeo?style=social)](https://twitter.com/Vinit_Shahdeo) [![Peerlist](https://github-readme-badge.peerlist.io/api/vinitshahdeo)](https://peerlist.io/vinitshahdeo)  [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=vinitshahdeo&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/vinitshahdeo/) [![GitHub followers](https://img.shields.io/github/followers/vinitshahdeo.svg?label=Follow%20@vinitshahdeo&style=social)](https://github.com/vinitshahdeo/)
 
 **Let's code, connect, and create awesome things together!**
 
