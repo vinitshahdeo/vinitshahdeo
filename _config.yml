@@ -51,7 +51,7 @@ minima:
 
   # Generate social links in footer.
   social_links:
-  #  - { platform: devto,          user_url: "https://dev.to/jekyll" }
+   - { platform: devto,          user_url: "https://dev.to/vinitshahdeo" }
   #  - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
   #  - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
   #  - { platform: flickr,         user_url: "https://www.flickr.com/photos/jekyll" }
