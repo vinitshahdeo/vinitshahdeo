@@ -1,7 +1,7 @@
 <h1 align='center'>👋 Hello!</h1>
 <p align='center'>
 <a href="https://wakatime.com/@018d7fcd-3625-4d05-9e6b-2a3cebe45299"><img src="https://wakatime.com/badge/user/018d7fcd-3625-4d05-9e6b-2a3cebe45299.svg"/></a>
-<a href="https://peerlist.io/vinitshahdeo"><img src="https://github-readme-badge.peerlist.io/api/vinitshahdeo"/></a>
+<a href="https://peerlist.io/vinitshahdeo"><img src="https://img.shields.io/badge/Peerlist-vinitshahdeo-00AB46?logo=peerlist"/></a>
 <a href="https://visitorbadge.io/status?path=vinitshahdeo%2Fvinitshahdeo"><img src="https://api.visitorbadge.io/api/visitors?path=vinitshahdeo%2Fvinitshahdeo&label=🌍 %20 Total%20Visitors&countColor=%23263759&style=flat&labelStyle=none" /></a>
 <a href="https://github.com/vinitshahdeo?tab=repositories"><img src="https://img.shields.io/github/stars/vinitshahdeo?style=flat&logo=github&label=Total%20Stars&color=teal"/></a>
 </p>
@@ -57,7 +57,7 @@ During [Hacktoberfest](https://github.com/vinitshahdeo/Hacktoberfest2021), I ini
 
 Explore my thoughts at [vinitshahdeo.dev](https://vinitshahdeo.dev/), and let's connect on 𝕏 [(Twitter)](https://twitter.com/Vinit_Shahdeo) and [LinkedIn](https://www.linkedin.com/in/vinitshahdeo/).
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Vinit_Shahdeo?style=social)](https://twitter.com/Vinit_Shahdeo) [![Peerlist](https://github-readme-badge.peerlist.io/api/vinitshahdeo)](https://peerlist.io/vinitshahdeo)  [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=vinitshahdeo&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/vinitshahdeo/) [![GitHub followers](https://img.shields.io/github/followers/vinitshahdeo.svg?label=Follow%20@vinitshahdeo&style=social)](https://github.com/vinitshahdeo/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Vinit_Shahdeo?style=social)](https://twitter.com/Vinit_Shahdeo) [![Website](https://img.shields.io/badge/vinitshahdeo.com-31473A?logo=netlify)](https://vinitshahdeo.com/) [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=vinitshahdeo&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/vinitshahdeo/) [![GitHub followers](https://img.shields.io/github/followers/vinitshahdeo.svg?label=Follow%20@vinitshahdeo&style=social)](https://github.com/vinitshahdeo/)
 
 **Let's code, connect, and create awesome things together!**
 
