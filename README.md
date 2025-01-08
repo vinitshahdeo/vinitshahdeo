@@ -18,7 +18,7 @@ Currently, I'm building seamless neobanking solutions at [Novo](https://www.novo
 - 📖 [A Developer’s Story – Vinit Shahdeo](https://www.geektrust.in/blog/2019/07/31/developers-story-vinit-shahdeo/)
 - 🚀 [Join Postman at Google Summer of Code 2023](https://blog.postman.com/join-postman-at-google-summer-of-code-2023/)
 - 💻 [If You Are A Techie, Your Home Page Should Be GitHub, Not Instagram](https://www.opensourceforu.com/2020/07/if-you-are-a-techie-your-home-page-should-be-github-not-instagram/)
-- 🌟 [Milepost: From a GitHub User to a GitHub Star](https://vinitshahdeo.dev/milepost-from-a-github-user-to-a-github-star)
+- 🌟 [Vinit Shahdeo: From a GitHub User to a GitHub Star](https://technovans.com/vinit-shahdeo-from-a-github-user-to-a-github-star)
 - 🧠 [10 lessons I've learned as a Software Engineer at Postman](https://vinitshahdeo.dev/10-lessons-learned-as-software-engineer-at-postman)
 
 ### Projects
