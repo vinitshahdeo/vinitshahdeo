@@ -4,6 +4,7 @@
 <a href="https://peerlist.io/vinitshahdeo"><img src="https://img.shields.io/badge/Peerlist-vinitshahdeo-00AB46?logo=peerlist"/></a>
 <a href="https://visitorbadge.io/status?path=vinitshahdeo%2Fvinitshahdeo"><img src="https://api.visitorbadge.io/api/visitors?path=vinitshahdeo%2Fvinitshahdeo&label=🌍 %20 Total%20Visitors&countColor=%23263759&style=flat&labelStyle=none" /></a>
 <a href="https://github.com/vinitshahdeo?tab=repositories"><img src="https://img.shields.io/github/stars/vinitshahdeo?style=flat&logo=github&label=Total%20Stars&color=teal"/></a>
+<a href="https://leetcode.com/u/vinitshahdeo/"><img src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fvinitshahdeo&logo=leetcode&logoColor=yellow"/></a>
 </p>
 
 Glad to see you here! I'm Vinit Shahdeo, a **Software Engineer** with a strong passion for **JavaScript** and **open-source**. I'm honored to be recognized twice as a [GitHub Star](https://stars.github.com/profiles/vinitshahdeo/) from India! With a knack for building **event-driven architecture**, I balance code with **badminton** 🏸 and find peace in a sip of **tea** 🍵 and **poetry** 🎙️. 
