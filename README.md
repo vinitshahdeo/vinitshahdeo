@@ -53,7 +53,7 @@ During [Hacktoberfest](https://github.com/vinitshahdeo/Hacktoberfest2021), I ini
 [![GitHub Star - Vinit Shahdeo](https://img.shields.io/badge/GitHub_Star-%E2%AD%90_vinitshahdeo-E89B25?colorA=302237&logo=github)](https://stars.github.com/profiles/vinitshahdeo/) 
 
 <!--
-[![50DaysOfJavaScript](https://github-readme-stats.vercel.app/api/pin/?username=vinitshahdeo&repo=50DaysOfJavaScript&theme=gruvbox)](https://github.com/vinitshahdeo/50DaysOfJavaScript)
+[![50DaysOfJavaScript](https://github-readme-stats.shion.dev/api/pin/?username=vinitshahdeo&repo=50DaysOfJavaScript&theme=gruvbox)](https://github.com/vinitshahdeo/50DaysOfJavaScript)
 -->
 
 ### Let's connect!
@@ -140,8 +140,8 @@ Explore my thoughts at [vinitshahdeo.dev](https://vinitshahdeo.dev/), and let's 
 
 
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=vinitshahdeo&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=vinitshahdeo&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img height="50%" width="auto" src ="https://github-readme-stats.shion.dev/api?username=vinitshahdeo&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.shion.dev/api/top-langs/?username=vinitshahdeo&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=vinitshahdeo&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
   <br>
